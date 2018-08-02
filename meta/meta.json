@@ -1,0 +1,112 @@
+{
+    "comments": {
+        "author": "Jaap Groen, OLVG", 
+        "creator": "custom", 
+        "description": "meta.json for CORanalyzer"
+    }, 
+    "results": {
+        "AcquisitionDateTime": {
+            "constraint_period": 50, 
+            "description": "date and time of acquisition", 
+            "display_level": 2, 
+            "display_name": "DateTime", 
+            "units": ""
+        },
+        "H1 Y mean error": {
+            "constraint_minlowhighmax": [
+                0.0, 
+                0.0, 
+                1.5, 
+                2.0
+            ], 
+            "description": "Mean error in the y-position of the source", 
+            "display_level": 1, 
+            "display_name": "H1Ymean", 
+            "units": "mm"
+        },
+        "H1 Y max error": {
+            "constraint_minlowhighmax": [
+                0.0, 
+                0.0, 
+                2.5, 
+                3.0
+            ], 
+            "description": "Max error in the y-position of the source", 
+            "display_level": 2, 
+            "display_name": "H1Ymax", 
+            "units": "mm"
+        },
+        "H1 X mean error": {
+            "constraint_minlowhighmax": [
+                0.0, 
+                0.0, 
+                1.5, 
+                2.0
+            ], 
+            "description": "Mean error in the x-position of the source", 
+            "display_level": 1, 
+            "display_name": "H1Xmean", 
+            "units": "mm"
+        },
+        "H1 X max error": {
+            "constraint_minlowhighmax": [
+                0.0, 
+                0.0, 
+                2.5, 
+                3.0
+            ], 
+            "description": "Max error in the x-position of the source", 
+            "display_level": 2, 
+            "display_name": "H1Xmax", 
+            "units": "mm"
+        },
+        "H2 Y mean error": {
+            "constraint_minlowhighmax": [
+                0.0, 
+                0.0, 
+                1.5, 
+                2.0
+            ], 
+            "description": "Mean error in the y-position of the source", 
+            "display_level": 1, 
+            "display_name": "H2Ymean", 
+            "units": "mm"
+        },
+        "H2 Y max error": {
+            "constraint_minlowhighmax": [
+                0.0, 
+                0.0, 
+                2.5, 
+                3.0
+            ], 
+            "description": "Max error in the y-position of the source", 
+            "display_level": 2, 
+            "display_name": "H2Ymax", 
+            "units": "mm"
+        },
+        "H2 X mean error": {
+            "constraint_minlowhighmax": [
+                0.0, 
+                0.0, 
+                1.5, 
+                2.0
+            ], 
+            "description": "Mean error in the x-position of the source", 
+            "display_level": 1, 
+            "display_name": "H2Xmean", 
+            "units": "mm"
+        },
+        "H2 X max error": {
+            "constraint_minlowhighmax": [
+                0.0, 
+                0.0, 
+                2.5, 
+                3.0
+            ], 
+            "description": "Max error in the x-position of the source", 
+            "display_level": 2, 
+            "display_name": "H2Xmax", 
+            "units": "mm"
+        }
+    }
+}
