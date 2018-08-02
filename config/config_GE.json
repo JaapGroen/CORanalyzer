@@ -1,0 +1,26 @@
+{
+    "actions": {
+        "acqdatetime": {
+            "filters": {}, 
+            "params": {}
+        }, 
+        "header_series": {
+            "filters": {}, 
+            "params": {},
+            "tags":{
+                "CollimatorName":"0x0054,0x0022/0x0018,0x1180"
+            }
+        }, 
+        "cor_series": {
+            "filters": {}, 
+            "params": {}
+        }
+    }, 
+    "comments": {
+        "author": "Jaap Groen, OLVG", 
+        "creator": "custom copy", 
+        "description": "CORanalyzer config file (for GE SPECT/CT)", 
+        "params": {}, 
+        "version": "20180802"
+    }
+}
